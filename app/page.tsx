@@ -32,7 +32,7 @@ export default function Home() {
           Healthy food shouldn&apos;t cost more.
         </h1>
         <p className="mt-3 max-w-2xl text-lg text-green-950/80">
-          Find healthy food near you in St. Pete — including free pantries and
+          Find healthy food near you in Tampa — including free pantries and
           markets that <strong>double your SNAP dollars</strong> — and learn
           simple swaps that save money and cut sugar and salt.
         </p>
