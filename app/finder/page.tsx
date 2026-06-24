@@ -67,7 +67,7 @@ export default function FinderPage() {
       <div>
         <h1 className="text-2xl font-bold">Find healthy food near you</h1>
         <p className="mt-1 text-sm text-stone-600">
-          St. Petersburg pilot area. Pantries are open to everyone unless noted
+          Tampa pilot area. Pantries are open to everyone unless noted
           — no paperwork needed at most.
         </p>
       </div>
